@@ -1,0 +1,21 @@
+[submodule "mathias/dotfiles"]
+	path = mathias/dotfiles
+	url = https://github.com/mathiasbynens/dotfiles.git
+[submodule "paulirish/dotfiles"]
+	path = paulirish/dotfiles
+	url = https://github.com/paulirish/dotfiles
+[submodule "simonowendesign/dotfiles"]
+	path = simonowendesign/dotfiles
+	url = https://github.com/simonowendesign/dotfiles
+[submodule "zachholman/dotfiles"]
+	path = zachholman/dotfiles
+	url = https://github.com/holman/dotfiles
+[submodule "yanpritzker/dotfiles"]
+	path = yanpritzker/dotfiles
+	url = https://github.com/skwp/dotfiles
+[submodule "paulmiller/dotfiles"]
+	path = paulmiller/dotfiles
+	url = https://github.com/paulmillr/dotfiles
+[submodule "benalman/dotfiles"]
+	path = benalman/dotfiles
+	url = https://github.com/cowboy/dotfiles
